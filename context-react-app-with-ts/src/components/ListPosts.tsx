@@ -69,6 +69,7 @@ interface Props {
         <ul>
             {listaView}
         </ul>
+
         <p>To jest liczba z countera {GlobalContext.couter}</p>
     </>
   )
